@@ -26,7 +26,7 @@ To analyze FMCG sales performance across products, categories, and sales channel
 - Top Performing Categories (by profit):
 - Personal Care and Household Cleaning dominate in both volume and profitability.
 - Packaged Foods had high volume but moderate profit margins.
-- 
+  
 - 2. Top Products by Profit
 - - Pantene Shampoo led the pack with the highest profit, contributing over ₹9,800 from just 122 units sold—clearly a high-margin item worth prioritizing.
 - Surf Excel Detergent followed closely, generating more than ₹7,100 in profit across 179 units, showing strong demand and solid returns.
@@ -37,13 +37,13 @@ To analyze FMCG sales performance across products, categories, and sales channel
 3. Sales Type & Payment Mode
 - Wholesaler Sales contributed the majority of profit (₹16,650.12).
 - Cash Payments accounted for 72% of transactions and 74% of profit, indicating strong offline buyer engagement.
+  
 4. Time-Based Trends
-  
-- Peak Sales Months: March, June, and September showed spikes in both sales and profit.
+     - Peak Sales Months: March, June, and September showed spikes in both sales and profit.
 - Sales Dips: April and July had relatively lower performance—potentially due to seasonal factors or stock issues.
-5. Frequently Sold Products
   
-Top 10 by frequency and quantity include:
+5. Frequently Sold Products
+  Top 10 by frequency and quantity include:
 - Pantene Shampoo, Colgate Toothpaste, Kellogg’s Corn Flakes, Yippee Noodles, and Amul Kool Flavored Milk.
 
 
