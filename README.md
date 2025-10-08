@@ -42,7 +42,7 @@ To optimize future performance:
 - Introduce targeted promotions during low-performing months.
 - Enhance online visibility for frequently sold products.
 - Refine category-level dashboards to monitor seasonal shifts and payment trends.
-Would you like help designing a dashboard layout or KPI framework to visualize these insights?
+Would you like help designing a dashboard layout or KPI framework to visualize these insights
 
 
 
